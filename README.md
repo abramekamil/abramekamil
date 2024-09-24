@@ -1,5 +1,8 @@
 # Hello There! <img src="https://github.com/abramekamil/abramekamil/blob/main/Pictures/waving-hand.gif" width="30"/>
 
+
+<img src="https://github.com/abramekamil/abramekamil/blob/main/Pictures/banner.png" width="600"/>
+
 Welcome to my portfolio! This repository showcases my skills, projects, and experience. Please note that this portfolio is a **work in progress** and I'm constantly updating it with my past/new projects and skills as I learn and grow.
 
 ## About Me
