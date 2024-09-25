@@ -1,7 +1,7 @@
 # Welcome to my GitHub! <img src="https://github.com/abramekamil/abramekamil/blob/main/Pictures/waving-hand.gif" width="30"/>
 
 
-<img src="https://github.com/abramekamil/abramekamil/blob/main/Pictures/banner.png" width="800"/>
+<img src="https://github.com/abramekamil/abramekamil/blob/main/Pictures/banner.png" width="750"/>
 
 ## About Me
 
