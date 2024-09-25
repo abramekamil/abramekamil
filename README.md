@@ -9,9 +9,12 @@ I'm an aspiring IT professional with a burning passion for cybersecurity. I'm co
 Feel free to reach out if you'd like to collaborate or just chat! I'm always open to new opportunities. 
 
 
-🔭 I’m currently working on my updating my GitHub page
+🔭 I’m currently working on updating my GitHub page / creating a personal portfolio
 
 👯 I’m looking to collaborate on anything cybersecurity-related
+
+
+
 
 
 ®Kamil Abramek 2024
